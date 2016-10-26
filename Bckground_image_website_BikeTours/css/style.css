@@ -1,0 +1,86 @@
+body{
+	background-image: url(http://www.publicdomainpictures.net/pictures/60000/velka/road-13813455026q6.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: 100% 100% ;
+	background-size: cover;
+
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+	color:#3B3B3B;
+
+
+}
+
+h1,h2{
+	font-family: "impact";
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0px;
+	color: #111111;
+	text-align: center;
+}
+
+#header{
+	width: 1000px;
+	margin: 150px auto;
+}
+
+#logo h1{
+	line-height: 150px;
+	font-size: 10em;
+	letter-spacing: -3px;
+}
+
+#threecollumns h2{
+	padding: 0px 9px 20px 0px;
+	font-size:50px;
+	letter-spacing: -3px;
+}
+
+h2{
+	text-align: left;
+}
+
+#threecollumns{
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 30px 30px;
+	background: rgba(255,255,255,0.3);
+
+}
+
+#threecollumns #collumn1{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+
+
+#threecollumns #collumn2{
+	float: left;
+	width: 300px;
+	
+}
+
+
+#threecollumns #collumn3{
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
